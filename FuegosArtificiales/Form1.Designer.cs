@@ -36,6 +36,7 @@
             // 
             temporizadorAnimación.Enabled = true;
             temporizadorAnimación.Interval = 20;
+            temporizadorAnimación.Tick += EventoAnimaciones;
             // 
             // Form1
             // 
@@ -45,6 +46,9 @@
             DoubleBuffered = true;
             Name = "Form1";
             Text = "Fuegos Artificiales";
+            Paint += FormularioDiseño;
+            KeyUp += SoltarTecla;
+            MouseDown += PresionarBotonMouse;
             ResumeLayout(false);
         }
 
