@@ -7,7 +7,7 @@
 - _Estoy emocionado de mostrarles la solución que encontramos en este proyecto._
 - _Este proyecto está repleto de funciones como cargar imágenes de fondo en la aplicación y cambiarlas dinámicamente durante el tiempo de ejecución, reproducir la animación de fuegos artificiales sobre los fondos de forma transparente y con una animación fluida._
 - _Usaremos programación orientada a objetos para crear esta aplicación._
-- Crearemos una clase para el objeto de fuegos artificiales y les daremos instrucciones sobre lo que deben hacer cuando lo generemos en la pantalla.
+- _Crearemos una clase para el objeto de fuegos artificiales y les daremos instrucciones sobre lo que deben hacer cuando lo generemos en la pantalla._
 - Realizaremos este tutorial en Visual Studio 2022.
 - Puede utilizar cualquier versión que esté disponible para usted.
 
