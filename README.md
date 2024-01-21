@@ -9,7 +9,7 @@
 - _Usaremos programación orientada a objetos para crear esta aplicación._
 - _Crearemos una clase para el objeto de fuegos artificiales y les daremos instrucciones sobre lo que deben hacer cuando lo generemos en la pantalla._
 - _Realizaremos este breve tutorial en Visual Studio 2022._
-- _Puede utilizar cualquier versión que esté disponible para usted._
+- _Se puede utilizar cualquier versión que esté disponible para usted._
 
 **Sigue este vídeo tutorial a continuación y diviértete haciendo esta entretenida aplicación mediante un enlace de tutoriales de programación:**
 https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
