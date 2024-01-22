@@ -1,3 +1,5 @@
+using System.Drawing.Text;
+
 namespace FuegosArtificiales
 {
     public partial class Form1 : Form
@@ -22,7 +24,18 @@ namespace FuegosArtificiales
         {
             // ESTE ES EL EVENTO CUANDO SUELTA UNA TECLA DEL TECLADO.
 
-            // EN INSTANTES...
+            // LA CANTIDAD DE IMÁGENES DE FONDO DE PANTALLA DE LA INTERFAZ SE IRÁ INCREMENTANDO SI SE CUMPLE CON ESTA CONDICIÓN...
+
+            if (numeroFondosDePantalla < ubicacion_imagen.Count -1)
+            {
+                numeroFondosDePantalla++;
+            }
+            else // EN CASO CONTRARIO...
+            {
+                numeroFondosDePantalla = 0; // EL NÚMERO DE LOS FONDOS DE PANTALLA ESTARÁN SIENDO CONTABILIZADAS EN 0.
+            }
+
+            this.BackgroundImage = Image.FromFile(ubicacion_imagen[numeroFondosDePantalla]); // DENTRO DE ESTE ARCHIVO, ELIGIREMOS LA UBICACIÓN DE LA IMAGEN SEGÚN LA CANTIDAD DE FONDOS DE PANTALLA QUE HAYA.
         }
 
         private void PresionarBotonMouse(object sender, MouseEventArgs e)
