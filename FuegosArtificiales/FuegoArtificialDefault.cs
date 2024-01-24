@@ -21,6 +21,15 @@ namespace FuegosArtificiales
         public bool animacionCompletada = false; // EN ESTOS MOMENTOS, NO SE MOSTRARÁN TODAS LAS ANIMACIONES DE CADA FUEGO ARTIFICAL DE LA INTERFAZ.
         public Image pirotecnia; // IMÁGENES DE CADA FUEGO ARTIFICIAL.
 
-        // EN INSTANTES...
+        // AHORA PROCEDEREMOS A CREAR UN CONSTRUCTOR PARA ESTA CLASE POR DEFECTO.
+
+        public FuegoArtificialDefault()
+        {
+            ubicacion_imagen = Directory.GetFiles("FuegoArtificial", "*.png").ToList(); // MEDIANTE UN EXPLORADOR DE SOLUCIONES, SE SELECCIONA UNA UBICACIÓN RESPECTIVA PARA CADA FUEGO ARTIFICIAL EXISTENTE DENTRO DEL DIRECTORIO CORRESPONDIENTE.
+            altura = 200; // LA ALTURA PARA CADA FUEGO ARTIFICIAL ES DE 200 METROS.
+            ancho = 200; // EL ANCHO PARA CADA FUEGO ARTIFICIAL TAMBIÉN ES DE 200 METROS.
+            pirotecnia = Image.FromFile(ubicacion_imagen[0]); // LA SIGUIENTE VARIABLE SE GENERA A MODO DE REFERENCIA PARA ENUMERAR POR NÚMERO DE UBICACIÓN DE IMAGEN MEDIANTE LISTAS.
+            patron = ubicacion_imagen.Count; // LOS PATRONES APARECERÁN CONTANDO REPETIDAMENTE.
+        }
     }
 }
