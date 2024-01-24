@@ -13,15 +13,15 @@
 
 ## Objetivos de esta lección
 
-1.- Crear una aplicación de animación de fuegos artificiales en Windows Forms.
+1.- _Crear una aplicación de animación de fuegos artificiales en Windows Forms._
 
-2.- Cargar imágenes de fondo desde una carpeta y guardar en la lista en C#.
+2.- _Cargar imágenes de fondo desde una carpeta y guardar en la lista en C#._
 
-3.- Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#.
+3.- _Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#._
 
-4.- Crear una clase de fuegos artificiales que controlará la animación del cuadro y la configuración del objeto.
+4.- _Crear una clase de fuegos artificiales que controlará la animación del cuadro y la configuración del objeto._
 
-5.- Agregue eventos de hacer clic al formulario principal y generar los fuegos artificiales en la ubicación del clic.
+5.- _Agregue eventos de hacer clic al formulario principal y generar los fuegos artificiales en la ubicación del clic._
 
 **Sigue este vídeo tutorial a continuación y diviértete haciendo esta entretenida aplicación mediante un enlace de tutoriales de programación:**
 https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
