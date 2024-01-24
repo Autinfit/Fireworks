@@ -13,7 +13,7 @@
 
 ## Objetivos de esta lección
 
-1.- Crear una aplicación de animación de fuegos artificiales en Windows Form.
+1.- Crear una aplicación de animación de fuegos artificiales en Windows Forms.
 
 2.- Cargar imágenes de fondo desde una carpeta y guárdelas en la lista en C#.
 
