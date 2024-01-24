@@ -17,7 +17,7 @@
 
 2.- Cargar imágenes de fondo desde una carpeta y guárdelas en la lista en C#.
 
-3.- Cargue imágenes de sprites de animación de fuegos artificiales desde una carpeta y guárdelas en una lista en C#.
+3.- Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guárdelas en una lista en C#.
 
 4.- Cree una clase de fuegos artificiales que controlará la animación del cuadro y la configuración del objeto.
 
