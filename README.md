@@ -11,5 +11,7 @@
 - _Realizaremos este breve tutorial en Visual Studio 2022._
 - _Se puede utilizar cualquier versión que esté disponible para usted._
 
+## Objetivos de esta lección
+
 **Sigue este vídeo tutorial a continuación y diviértete haciendo esta entretenida aplicación mediante un enlace de tutoriales de programación:**
 https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
