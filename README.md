@@ -19,7 +19,7 @@
 
 3.- Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#.
 
-4.- Cree una clase de fuegos artificiales que controlará la animación del cuadro y la configuración del objeto.
+4.- Crear una clase de fuegos artificiales que controlará la animación del cuadro y la configuración del objeto.
 
 5.- Agregue eventos de clic al formulario principal y genere los fuegos artificiales en la ubicación del clic.
 
