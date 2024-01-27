@@ -42,7 +42,16 @@ namespace FuegosArtificiales
         {
             // ESTE ES EL EVENTO CUANDO PRESIONA UN BOTÓN DEL MOUSE.
 
-            // EN INSTANTES...
+            // DECLARAREMOS LAS SIGUIENTES VARIABLES:
+
+            Point posicionMouse = new Point(); // PUNTO EN DONDE SE POSICIONA EL MOUSE A PRESIONAR EL BOTÓN.
+            posicionMouse.X = e.X; // PUNTO EN LA POSICIÓN X DEL MOUSE.
+            posicionMouse.Y = e.Y; // PUNTO EN LA POSICIÓN Y DEL MOUSE.
+
+            FuegoArtificialDefault nuevaPirotecnia = new FuegoArtificialDefault(); // CREAREMOS UNA NUEVA PIROTECNIA POR DEFECTO.
+            nuevaPirotecnia.posicion.X = posicionMouse.X - (nuevaPirotecnia.ancho / 2); // SE CREA UNA NUEVA PIROTECNIA EN LA POSICIÓN X DEL MOUSE.
+            nuevaPirotecnia.posicion.Y = posicionMouse.Y - (nuevaPirotecnia.altura / 2); // SE CREA UNA NUEVA PIROTECNIA EN LA POSICIÓN Y DEL MOUSE.
+            listado_fireworks.Add(nuevaPirotecnia); // UNA NUEVA PIROTECNIA SE AGREGA MEDIANTE UN LISTADO DE FUEGOS ARTIFICIALES.
         }
 
         private void FormularioDiseño(object sender, PaintEventArgs e)
