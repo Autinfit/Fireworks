@@ -58,7 +58,17 @@ namespace FuegosArtificiales
         {
             // ESTE ES EL EVENTO PARA DISEÑAR LA INTERFAZ GRÁFICA DEL FORMULARIO.
 
-            // EN INSTANTES...
+            // CREAREMOS LA ITERACIÓN "foreach" PARA CADA ELEMENTO PIROTÉCNICO DENTRO DE UNA LISTA DE ARCHIVOS SUBIDOS EN EL EXPLORADOR DE SOLUCIONES.
+
+            foreach (FuegoArtificialDefault nuevaPirotecnia in listado_fireworks.ToList())
+            {
+                if (nuevaPirotecnia.animacionCompletada == false) // SI LA PIROTECNIA AÚN NO ESTÁ FINALIZADA MEDIANTE ANIMACIONES...
+                {
+                    // ENTONCES SE SEGUIRÁN ILUSTRANDO VARIAS PIROTECNIAS...
+
+                    e.Graphics.DrawImage(nuevaPirotecnia.pirotecnia, nuevaPirotecnia.posicion.X, nuevaPirotecnia.posicion.Y, nuevaPirotecnia.ancho, nuevaPirotecnia.altura);
+                }
+            }
         }
 
         private void EventoAnimaciones(object sender, EventArgs e)
