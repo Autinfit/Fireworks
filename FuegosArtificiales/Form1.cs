@@ -75,7 +75,25 @@ namespace FuegosArtificiales
         {
             // MEDIANTE UN TEMPORIZADOR SERÁ ESTE EVENTO PARA ANIMAR CON FUEGOS ARTIFICIALES EN FORMATO .GIF PARA LA INTERFAZ DEL FORMULARIO.
 
-            // EN INSTANTES...
+            // INICIALMENTE USAREMOS UNA ITERACIÓN PARA CADA ELEMENTO PIROTÉCNICO SI ESTA VARIABLE ASOCIADA NO RETORNA A NULL...
+
+            if (listado_fireworks != null)
+            {
+                foreach (FuegoArtificialDefault pirotecnia in listado_fireworks.ToList())
+                {
+                    if (pirotecnia.animacionCompletada == false) // SI ES QUE LA PIROTECNIA NO FINALICE LAS ANIMACIONES...
+                    {
+                        pirotecnia.AnimarFuegosArtificiales(); // A CADA ELEMENTO PIROTÉCNICO REALIZAREMOS UNA ANIMACIÓN.
+                    }
+
+                    else // EN CASO CONTRARIO, ELIMINA CUALQUIER ELEMENTO PIROTÉCNICO DENTRO DEL LISTADO DEL EXPLORADOR DE SOLUCIONES.
+                    {
+                        listado_fireworks.Remove(pirotecnia);
+                    }
+                }
+            }
+
+            this.Invalidate(); // CUANDO NO LO RETORNA.
         }
     }
 }
