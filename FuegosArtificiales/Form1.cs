@@ -17,7 +17,11 @@ namespace FuegosArtificiales
 
         private void Configuracion()
         {
-            // EN INSTANTES...
+            // FINALMENTE, REALIZAREMOS LAS CONFIGURACIONES PARA LA INTERFAZ DEL PROYECTO.
+
+            ubicacion_imagen = Directory.GetFiles("FondosPantalla", "*.jpg").ToList(); // LOS FONDOS DE PANTALLA SE RECONOCERÁN MEDIANTE EL EXPLORADOR DE SOLUCIONES.
+            this.BackgroundImage = Image.FromFile(ubicacion_imagen[0]); // LOS FONDOS DE PANTALLA SE ELIGEN MEDIANTE UNA LISTA DE ARREGLOS EXISTENTE DESDE EL EXPLORADOR DE SOLUCIONES.
+            this.BackgroundImageLayout = ImageLayout.Stretch; // LA EDICIÓN DE LA IMAGEN DE FONDO SERÁ PERSONALIZADA MEDIANTE LÍNEA DE CÓDIGO (NO SE HACE DENTRO DEL FORMULARIO LA PERSONALIZACIÓN DE LASS IMÁGENES O PICTUREBOX).
         }
 
         private void SoltarTecla(object sender, KeyEventArgs e)
