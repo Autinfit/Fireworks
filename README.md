@@ -11,7 +11,7 @@
 - _Realizaremos este breve tutorial en Visual Studio 2022._
 - _Se puede utilizar cualquier versión que esté disponible para usted._
 
-### Objetivos de esta lección
+### Objetivos de esta lección:
 
 1.- _Crear una aplicación de animación de fuegos artificiales en Windows Forms._
 
