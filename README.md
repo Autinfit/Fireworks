@@ -1,6 +1,6 @@
 # Fireworks
 
-### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click
+### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
 
 - _En este tutorial crearemos una pequeña aplicación interesante donde podrás generar y animar una animación de fuegos artificiales con un evento de hacer click mediante un formulario de Windows._
 - _Esta fue una idea muy novedosa y un proyecto muy interesante de realizar._
