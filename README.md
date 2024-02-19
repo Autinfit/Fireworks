@@ -9,7 +9,7 @@
 - _Usaremos programación orientada a objetos para poder crear esta aplicación._
 - _Crearemos una clase para el objeto de fuegos artificiales y les daremos instrucciones sobre lo que deben hacer cuando lo generemos en la interfaz del proyecto._
 - _Realizaremos este breve tutorial en Visual Studio 2022._
-- _Se puede utilizar cualquier versión que esté disponible para usted._
+- _Se puede utilizar cualquier versión en la cuál esté disponible para usted._
 
 ### Objetivos de esta lección:
 
