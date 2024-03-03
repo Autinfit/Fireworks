@@ -15,7 +15,7 @@
 
 1.- **_Crear una aplicación de animación de fuegos artificiales en Windows Forms._**
 
-2.- _Cargar imágenes de fondo desde una carpeta y guardar en la lista en C#._
+2.- **_Cargar imágenes de fondo desde una carpeta y guardar en la lista en C#._**
 
 3.- _Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#._
 
