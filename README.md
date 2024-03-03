@@ -21,7 +21,7 @@
 
 4.- **_Crear una clase de fuegos artificiales que controlará la animación del cuadro y la configuración de un objeto._**
 
-5.- _Agregar eventos de hacer click al formulario principal y generar los fuegos artificiales en la ubicación del clic._
+5.- **_Agregar eventos de hacer click al formulario principal y generar los fuegos artificiales en la ubicación del clic._**
 
 **Sigue este vídeo tutorial a continuación y diviértete haciendo esta entretenida aplicación mediante un enlace de tutoriales de programación:**
 https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
