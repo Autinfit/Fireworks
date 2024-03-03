@@ -17,7 +17,7 @@
 
 2.- **_Cargar imágenes de fondo desde una carpeta y guardar en la lista en C#._**
 
-3.- _Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#._
+3.- **_Cargar imágenes de sprites de animación de fuegos artificiales desde una carpeta y guardar en una lista en C#._**
 
 4.- _Crear una clase de fuegos artificiales que controlará la animación del cuadro y la configuración de un objeto._
 
