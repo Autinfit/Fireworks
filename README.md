@@ -11,6 +11,9 @@
 - **_We will do this short tutorial in Visual Studio 2022._**
 - **_You can use any version of this project in which it is available to you._**
 
+
+Objectives of this lesson:
+
 **_Traducido del español:_**
 
 ### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
