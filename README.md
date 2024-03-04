@@ -24,6 +24,9 @@
 
 5.- **_Add click events to the main form and generate the fireworks at the click location._**
 
+**Follow this video tutorial below and have fun making this entertaining application using a programming tutorials link:**
+https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
+
 **_Traducido del español:_**
 
 ### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
