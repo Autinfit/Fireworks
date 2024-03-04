@@ -6,7 +6,7 @@
 - **_This was a very released idea and a very interesting project to carry out._**
 - **_I'm excited to show you the solution we found in this project._**
 - **_This project could be packed with features such as loading background images in the application and changing them dynamically during the estimated runtime, playing fireworks animation over the backgrounds transparently and with fluid animation._**
-- _We will use object-oriented programming (OOP) to create this application._
+- **_We will use object-oriented programming (OOP) to create this application._**
 
 **_Traducido del español:_**
 
