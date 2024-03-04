@@ -3,7 +3,7 @@
 ### How to generate animated fireworks in Windows Forms with a click event:
 
 - **_In this tutorial we will create a very interesting little application where you can generate and animate several fireworks with a click event using a Windows forms._**
-- This was a very released idea and a very interesting project to carry out.
+- _This was a very released idea and a very interesting project to carry out._
 
 **_Traducido del español:_**
 
