@@ -9,7 +9,7 @@
 - **_We will use object-oriented programming (OOP) to create this application._**
 - **_We will create a class for the fireworks object and give them instructions on what to do when we generate it in the project interface._**
 - **_We will do this short tutorial in Visual Studio 2022._**
-- _You can use any version of this project in which it is available to you._
+- **_You can use any version of this project in which it is available to you._**
 
 **_Traducido del español:_**
 
