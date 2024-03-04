@@ -17,7 +17,7 @@
 1.- **_Create a fireworks animation app in Windows Forms._**
 2.- **_Load background images from a folder and save to list in C#._**
 3.- **_Load fireworks animation sprite images from a folder and save to a list in C#._**
-4.- _Create a fireworks class that will control the frame animation and settings of an object._
+4.- **_Create a fireworks class that will control the frame animation and settings of an object._**
 
 **_Traducido del español:_**
 
