@@ -5,7 +5,7 @@
 - **_In this tutorial we will create a very interesting little application where you can generate and animate several fireworks with a click event using a Windows forms._**
 - **_This was a very released idea and a very interesting project to carry out._**
 - **_I'm excited to show you the solution we found in this project._**
-- _This project could be packed with features such as loading background images in the application and changing them dynamically during the estimated runtime, playing fireworks animation over the backgrounds transparently and with fluid animation._
+- **_This project could be packed with features such as loading background images in the application and changing them dynamically during the estimated runtime, playing fireworks animation over the backgrounds transparently and with fluid animation._**
 
 **_Traducido del español:_**
 
