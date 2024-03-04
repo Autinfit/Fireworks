@@ -1,6 +1,6 @@
 # Fireworks
 
-_Traducido del español:_
+**_Traducido del español:_**
 
 ### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
 
