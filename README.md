@@ -12,7 +12,7 @@
 - **_You can use any version of this project in which it is available to you._**
 
 
-Objectives of this lesson:
+### Objectives of this lesson:
 
 **_Traducido del español:_**
 
