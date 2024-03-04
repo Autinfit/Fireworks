@@ -1,6 +1,6 @@
 # Fireworks
 
-How to generate animated fireworks in Windows Forms with a click event:
+### How to generate animated fireworks in Windows Forms with a click event:
 
 **_Traducido del español:_**
 
