@@ -14,7 +14,7 @@
 
 ### Objectives of this lesson:
 
-Create a fireworks animation app in Windows Forms.
+1.- Create a fireworks animation app in Windows Forms.
 
 **_Traducido del español:_**
 
