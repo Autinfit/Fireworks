@@ -15,6 +15,7 @@
 ### Objectives of this lesson:
 
 1.- **_Create a fireworks animation app in Windows Forms._**
+2.- Load background images from a folder and save to list in C#.
 
 **_Traducido del español:_**
 
