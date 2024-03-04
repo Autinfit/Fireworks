@@ -8,7 +8,7 @@
 - **_This project could be packed with features such as loading background images in the application and changing them dynamically during the estimated runtime, playing fireworks animation over the backgrounds transparently and with fluid animation._**
 - **_We will use object-oriented programming (OOP) to create this application._**
 - **_We will create a class for the fireworks object and give them instructions on what to do when we generate it in the project interface._**
-- We will do this short tutorial in Visual Studio 2022.
+- _We will do this short tutorial in Visual Studio 2022._
 
 **_Traducido del español:_**
 
