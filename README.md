@@ -14,6 +14,8 @@
 
 ### Objectives of this lesson:
 
+Create a fireworks animation app in Windows Forms.
+
 **_Traducido del español:_**
 
 ### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
