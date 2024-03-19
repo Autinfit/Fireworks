@@ -28,6 +28,9 @@
 **Follow this video tutorial below and have fun making this entertaining application using a programming tutorials link:**
 https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-with-click-event/
 
+![image](https://github.com/Autinfit/Fireworks/assets/155406623/9eab36ac-60fe-432f-8db1-19877a42c539)
+
+
 **_Traducido del español:_**
 
 ### Cómo generar fuegos artificiales animados en Windows Forms con un evento de hacer click:
