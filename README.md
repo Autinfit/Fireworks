@@ -11,6 +11,7 @@
 - **_We will do this short tutorial in Visual Studio 2022._**
 - **_You can use any version of this project in which it is available to you._**
 
+![image](https://github.com/Autinfit/Fireworks/assets/155406623/57eb8ac2-5639-43de-86c4-46dd52b6a163)
 
 ### Objectives of this lesson:
 
