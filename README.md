@@ -44,6 +44,8 @@ https://www.mooict.com/c-oop-project-spawn-animated-fireworks-in-windows-forms-w
 - **_Realizaremos este breve tutorial en Visual Studio 2022._**
 - **_Se puede utilizar cualquier versión de este proyecto en la cuál esté disponible para usted._**
 
+![image](https://github.com/Autinfit/Fireworks/assets/155406623/1a9a1096-b269-486d-a3ea-8f981517a1b4)
+
 ### Objetivos de esta lección:
 
 1.- **_Crear una aplicación de animación de fuegos artificiales en Windows Forms._**
